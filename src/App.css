@@ -1,0 +1,11 @@
+html,
+body {
+  background: #23252C;
+  margin: 0;
+}
+
+.card-container {
+  width: 300px;
+  margin: 2em auto;
+  text-align: center;
+}

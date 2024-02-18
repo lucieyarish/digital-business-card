@@ -1,0 +1,17 @@
+.header--profile-photo {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.header--title {
+    font-size: 1.562rem;
+    margin-top: 0.3em;
+    margin-bottom: 0;
+}
+
+.header--subtitle {
+    font-size: 0.8rem;
+    color: #F3BF99;
+    font-weight: 200;
+    margin: 0;
+}
