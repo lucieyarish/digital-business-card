@@ -5,7 +5,7 @@
 
 .header--title {
     font-size: 1.562rem;
-    margin-top: 0.3em;
+    margin-top: 0.4em;
     margin-bottom: 0;
 }
 
@@ -14,4 +14,11 @@
     color: #F3BF99;
     font-weight: 200;
     margin: 0;
+}
+
+.header--links__container {
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    gap: 1em;
 }
