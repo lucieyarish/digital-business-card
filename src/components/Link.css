@@ -4,6 +4,8 @@
     border-radius: 6px;
     width: 100%;
     font-size: 0.875rem;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.959);
+    position: relative;
 }
 
 .link__primary {
@@ -18,4 +20,15 @@
 
 .link--icon {
     margin-right: 0.6em;
+}
+
+.link:hover,
+.link:focus {
+    transition-duration: 0.2s;
+    background-color: #3A3A3A;
+}
+
+.link__secondary:hover,
+.link__secondary:focus {
+    color: #FFF;
 }
