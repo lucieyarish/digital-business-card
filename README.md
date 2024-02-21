@@ -31,7 +31,7 @@ The Figma mockup was provided by Scrimba and the app was built entirely from scr
 
 ### Showcase Screenshots
 
-<img width="868" alt="Screenshot of the finished project" src="https://github.com/lucieyarish/digital-business-card/assets/79669599/95832318-acf6-40f4-a5e2-252e79b77fab">
+<img width="600" alt="Screenshot of the finished project" src="https://github.com/lucieyarish/digital-business-card/assets/79669599/95832318-acf6-40f4-a5e2-252e79b77fab">
 
 
 ### Links
