@@ -16,7 +16,7 @@
     margin: 0;
 }
 
-.header--links__container {
+.header--btns__container {
     padding: 1.4em;
     display: flex;
     justify-content: center;

@@ -1,4 +1,4 @@
-.link {
+.btn {
     padding: 0.5em 1em;
     text-decoration: none;
     border-radius: 6px;
@@ -8,27 +8,27 @@
     position: relative;
 }
 
-.link__primary {
+.btn__primary {
     background: #5093E2;
     color: #FFF;
 }
 
-.link__secondary {
+.btn__secondary {
     background: #FFF;
     color: #374151;
 }
 
-.link--icon {
+.btn--icon {
     margin-right: 0.6em;
 }
 
-.link:hover,
-.link:focus {
+.btn:hover,
+.btn:focus {
     transition-duration: 0.2s;
     background-color: #3A3A3A;
 }
 
-.link__secondary:hover,
-.link__secondary:focus {
+.btn__secondary:hover,
+.btn__secondary:focus {
     color: #FFF;
 }

@@ -1,5 +1,7 @@
 import './Info.css';
-import Link from '../components/Link';
+import Button from '../components/Button';
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 const Info = () => {
   return (
@@ -11,9 +13,22 @@ const Info = () => {
       />
       <h1 className="header--title">Lucie Yarish</h1>
       <h2 className="header--subtitle">Software Developer</h2>
-      <div className="header--links__container">
-        <Link text={'Email'} type={'email'} />
-        <Link text={'LinkedIn'} type={'linkedin'} />
+      <div className="header--btns__container">
+        <Button
+          text={'Email'}
+          href={'mailto:lucieyarish@hotmail.com'}
+          target={''}
+          rel={''}
+          icon={faEnvelope}
+        />
+        <Button
+          text={'LinkedIn'}
+          href={'https://www.linkedin.com/in/lucie-yarish/'}
+          target={'_blank'}
+          rel={'noopener noreferrer'}
+          icon={faLinkedin}
+          isPrimary
+        />
       </div>
     </header>
   );
