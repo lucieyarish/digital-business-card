@@ -56,7 +56,7 @@ The Figma mockup was provided by Scrimba and the app was built entirely from scr
 
 ### Built With
 
-HTML, CSS, React and Vite
+React, Vite, and CSS
 
 ### What I Learned
 
