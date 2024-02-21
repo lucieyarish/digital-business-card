@@ -1,0 +1,9 @@
+.social-link--icon {
+    font-size: 2rem;
+    color: #918E9B;
+}
+
+.social-link--icon:hover,
+.social-link--icon:focus {
+    color: #F3BF99;
+}
