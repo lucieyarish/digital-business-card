@@ -5,7 +5,7 @@ const Info = () => {
   return (
     <header className="header">
       <img
-        src="/public/assets/images/lucie-profile-photo.jpg"
+        src="/assets/lucie-profile-photo.jpg"
         alt="Profile photo of Lucie Yarish"
         className="header--profile-photo"
       />
